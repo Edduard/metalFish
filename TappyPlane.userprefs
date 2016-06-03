@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Player.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Player.cs" Line="239" Column="13" />
+      <File FileName="Assets\Scripts\fishGenerator.cs" Line="60" Column="66" />
+      <File FileName="Assets\Scripts\sharkBehaviour.cs" Line="49" Column="27" />
+      <File FileName="Assets\Scripts\fishBehaviour.cs" Line="64" Column="30" />
+      <File FileName="Assets\Scripts\bgGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\floorGenerator.cs" Line="27" Column="2" />
+      <File FileName="Assets\Scripts\scroll.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Score.cs" Line="12" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
